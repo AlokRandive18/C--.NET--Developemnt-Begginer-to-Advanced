@@ -1,0 +1,15 @@
+/Users/alokrandive/Documents/Study/micrsoft .NET Projects/Firstprogram/Firstprogram/bin/Debug/net6.0/Firstprogram
+/Users/alokrandive/Documents/Study/micrsoft .NET Projects/Firstprogram/Firstprogram/bin/Debug/net6.0/Firstprogram.deps.json
+/Users/alokrandive/Documents/Study/micrsoft .NET Projects/Firstprogram/Firstprogram/bin/Debug/net6.0/Firstprogram.runtimeconfig.json
+/Users/alokrandive/Documents/Study/micrsoft .NET Projects/Firstprogram/Firstprogram/bin/Debug/net6.0/Firstprogram.dll
+/Users/alokrandive/Documents/Study/micrsoft .NET Projects/Firstprogram/Firstprogram/bin/Debug/net6.0/Firstprogram.pdb
+/Users/alokrandive/Documents/Study/micrsoft .NET Projects/Firstprogram/Firstprogram/obj/Debug/net6.0/Firstprogram.csproj.AssemblyReference.cache
+/Users/alokrandive/Documents/Study/micrsoft .NET Projects/Firstprogram/Firstprogram/obj/Debug/net6.0/Firstprogram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alokrandive/Documents/Study/micrsoft .NET Projects/Firstprogram/Firstprogram/obj/Debug/net6.0/Firstprogram.AssemblyInfoInputs.cache
+/Users/alokrandive/Documents/Study/micrsoft .NET Projects/Firstprogram/Firstprogram/obj/Debug/net6.0/Firstprogram.AssemblyInfo.cs
+/Users/alokrandive/Documents/Study/micrsoft .NET Projects/Firstprogram/Firstprogram/obj/Debug/net6.0/Firstprogram.csproj.CoreCompileInputs.cache
+/Users/alokrandive/Documents/Study/micrsoft .NET Projects/Firstprogram/Firstprogram/obj/Debug/net6.0/Firstprogram.dll
+/Users/alokrandive/Documents/Study/micrsoft .NET Projects/Firstprogram/Firstprogram/obj/Debug/net6.0/refint/Firstprogram.dll
+/Users/alokrandive/Documents/Study/micrsoft .NET Projects/Firstprogram/Firstprogram/obj/Debug/net6.0/Firstprogram.pdb
+/Users/alokrandive/Documents/Study/micrsoft .NET Projects/Firstprogram/Firstprogram/obj/Debug/net6.0/Firstprogram.genruntimeconfig.cache
+/Users/alokrandive/Documents/Study/micrsoft .NET Projects/Firstprogram/Firstprogram/obj/Debug/net6.0/ref/Firstprogram.dll
