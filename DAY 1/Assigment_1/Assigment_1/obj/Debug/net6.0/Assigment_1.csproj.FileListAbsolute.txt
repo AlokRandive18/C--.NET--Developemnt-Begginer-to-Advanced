@@ -1,0 +1,15 @@
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 1/Assigment_1/Assigment_1/bin/Debug/net6.0/Assigment_1
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 1/Assigment_1/Assigment_1/bin/Debug/net6.0/Assigment_1.deps.json
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 1/Assigment_1/Assigment_1/bin/Debug/net6.0/Assigment_1.runtimeconfig.json
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 1/Assigment_1/Assigment_1/bin/Debug/net6.0/Assigment_1.dll
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 1/Assigment_1/Assigment_1/bin/Debug/net6.0/Assigment_1.pdb
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 1/Assigment_1/Assigment_1/obj/Debug/net6.0/Assigment_1.csproj.AssemblyReference.cache
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 1/Assigment_1/Assigment_1/obj/Debug/net6.0/Assigment_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 1/Assigment_1/Assigment_1/obj/Debug/net6.0/Assigment_1.AssemblyInfoInputs.cache
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 1/Assigment_1/Assigment_1/obj/Debug/net6.0/Assigment_1.AssemblyInfo.cs
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 1/Assigment_1/Assigment_1/obj/Debug/net6.0/Assigment_1.csproj.CoreCompileInputs.cache
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 1/Assigment_1/Assigment_1/obj/Debug/net6.0/Assigment_1.dll
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 1/Assigment_1/Assigment_1/obj/Debug/net6.0/refint/Assigment_1.dll
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 1/Assigment_1/Assigment_1/obj/Debug/net6.0/Assigment_1.pdb
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 1/Assigment_1/Assigment_1/obj/Debug/net6.0/Assigment_1.genruntimeconfig.cache
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 1/Assigment_1/Assigment_1/obj/Debug/net6.0/ref/Assigment_1.dll
