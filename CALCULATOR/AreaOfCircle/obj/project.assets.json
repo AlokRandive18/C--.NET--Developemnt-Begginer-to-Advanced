@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/Firstprogram/Calculator.csproj",
-      "projectName": "Calculator",
-      "projectPath": "/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/Firstprogram/Calculator.csproj",
+      "projectUniqueName": "/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/AreaOfCircle.csproj",
+      "projectName": "AreaOfCircle",
+      "projectPath": "/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/AreaOfCircle.csproj",
       "packagesPath": "/Users/alokrandive/.nuget/packages/",
-      "outputPath": "/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/Firstprogram/obj/",
+      "outputPath": "/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alokrandive/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/bin/Debug/net6.0/AreaOfCircle
+/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/bin/Debug/net6.0/AreaOfCircle.deps.json
+/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/bin/Debug/net6.0/AreaOfCircle.runtimeconfig.json
+/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/bin/Debug/net6.0/AreaOfCircle.dll
+/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/bin/Debug/net6.0/AreaOfCircle.pdb
+/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/obj/Debug/net6.0/AreaOfCircle.csproj.AssemblyReference.cache
+/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/obj/Debug/net6.0/AreaOfCircle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/obj/Debug/net6.0/AreaOfCircle.AssemblyInfoInputs.cache
+/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/obj/Debug/net6.0/AreaOfCircle.AssemblyInfo.cs
+/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/obj/Debug/net6.0/AreaOfCircle.csproj.CoreCompileInputs.cache
+/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/obj/Debug/net6.0/AreaOfCircle.dll
+/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/obj/Debug/net6.0/refint/AreaOfCircle.dll
+/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/obj/Debug/net6.0/AreaOfCircle.pdb
+/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/obj/Debug/net6.0/AreaOfCircle.genruntimeconfig.cache
+/Users/alokrandive/Projects/C--.NET--Developemnt-Begginer-to-Advanced/CALCULATOR/AreaOfCircle/obj/Debug/net6.0/ref/AreaOfCircle.dll
