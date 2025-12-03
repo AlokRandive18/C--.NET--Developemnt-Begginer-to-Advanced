@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+bT/TxA48T4MGAL0juiRWI66gOkghdwvZjf/sPM0rtBaEcfFp8fEidSEoa7Z+3IApYYsO6JelNa96uzL9qGirw==",
+  "success": true,
+  "projectFilePath": "/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/OOPS.csproj",
+  "expectedPackageFiles": [
+    "/Users/alokrandive/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/alokrandive/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/alokrandive/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

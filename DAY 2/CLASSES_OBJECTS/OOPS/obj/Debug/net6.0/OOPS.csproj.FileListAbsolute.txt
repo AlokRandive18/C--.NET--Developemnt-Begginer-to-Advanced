@@ -1,0 +1,15 @@
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/bin/Debug/net6.0/OOPS
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/bin/Debug/net6.0/OOPS.deps.json
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/bin/Debug/net6.0/OOPS.runtimeconfig.json
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/bin/Debug/net6.0/OOPS.dll
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/bin/Debug/net6.0/OOPS.pdb
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/obj/Debug/net6.0/OOPS.csproj.AssemblyReference.cache
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/obj/Debug/net6.0/OOPS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/obj/Debug/net6.0/OOPS.AssemblyInfoInputs.cache
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/obj/Debug/net6.0/OOPS.AssemblyInfo.cs
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/obj/Debug/net6.0/OOPS.csproj.CoreCompileInputs.cache
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/obj/Debug/net6.0/OOPS.dll
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/obj/Debug/net6.0/refint/OOPS.dll
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/obj/Debug/net6.0/OOPS.pdb
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/obj/Debug/net6.0/OOPS.genruntimeconfig.cache
+/Users/alokrandive/Documents/Study/C_Sharp,.NET  Developemnt Begginer to Advanced /DAY 2/CLASSES_OBJECTS/OOPS/obj/Debug/net6.0/ref/OOPS.dll
